@@ -3,6 +3,8 @@
 
 I'm a software engineer with over 20 years of experience delivering solutions for product, project, and SaaS companies. My expertise spans multiple languages and frameworks, including Ruby on Rails, JavaScript, Go, Python, and Java.
 
+> In software development, figuring out *what* to build is often more challenging than *how* to build it.
+
 ### What I Do
 
 **🛠️ Software Engineering:** Delivering software solutions across diverse industries, focusing on high-quality code and long-term maintainability.
