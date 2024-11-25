@@ -23,6 +23,9 @@ I'm a software engineer with over 20 years of experience delivering solutions fo
 
 **💡 Projects:** Build side projects to continue learning and development, including [ollama-chat](https://github.com/danielabar/ollama_chat), [retro-pulse](https://github.com/danielabar/retro-pulse), [echo-weather](https://github.com/danielabar/echo-weather-rails), and [can-rrsp-cashout](https://github.com/danielabar/can-rrsp-cashout).
 
+**🤝 Volunteering:** Contributing to [Ruby for Good](https://rubyforgood.org/), an organization that creates software for social good. I help build features for [Human Essentials](https://humanessentials.app/), a platform that simplifies resource distribution for nonprofits. Check out my [merged PRs](https://github.com/rubyforgood/human-essentials/pulls?q=is%3Apr+is%3Amerged+author%3Adanielabar+).
+
+
 [![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielabar&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 Learn more [about](https://danielabaron.me/about/) me.
